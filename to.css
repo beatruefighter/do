@@ -1,0 +1,7 @@
+body{
+    background: olivedrab;
+}
+.done-true {
+    text-decoration: line-through;
+    color: rgb(243, 237, 237);
+  }
